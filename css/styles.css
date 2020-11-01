@@ -226,17 +226,17 @@ textarea {
   }
 
   #city {
-    margin-left: 100px;
+    margin-left: 120px;
   }
 
   #state {
-    margin-left: 90px;
+    margin-left: 110px;
   }
 
   #zipcode {
     margin-top: -15px;
-    margin-right: 460px;
+    margin-right: 440px;
     max-width: 200px;
   }
-  
+
 }
